@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Ronny",
+            "lastname": "Nilve",
+            "email": "ronnynilve@info.com",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 2,
+            "name": "Juanito",
+            "lastname": "Alimaña",
+            "email": "juanito@info.com",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 3,
+            "name": "Lionel",
+            "lastname": "Messi",
+            "email": "liomessi@info.com",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        }
+    ]
+}
